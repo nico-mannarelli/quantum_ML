@@ -2,7 +2,7 @@
 
 A collection of quantum machine learning and reinforcement learning projects demonstrating classical and quantum computing techniques for machine learning applications.
 
-## 🚀 Overview
+## Overview
 
 This repository showcases three key projects:
 
@@ -10,7 +10,7 @@ This repository showcases three key projects:
 2. **Deep Q-Learning (DQN)** - Reinforcement learning agent for CartPole-v1 using PyTorch
 3. **Variational Quantum Circuit (VQC)** - Quantum circuit visualization and execution using PennyLane
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 quant-ml-fire/
@@ -22,7 +22,7 @@ quant-ml-fire/
 └── README.md              # This file
 ```
 
-## 🛠️ Installation
+## Installation
 
 ### Prerequisites
 
@@ -48,7 +48,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 📚 Projects
+## Projects
 
 ### 1. Quantum Angle Encoding
 
@@ -116,7 +116,7 @@ python vqc_circuit_visual.py
 - Saves circuit diagram to `circuit_diagram.txt`
 - Displays expectation values
 
-## 🔬 Technical Details
+## Technical Details
 
 ### Quantum Angle Encoding
 - **Framework:** Qiskit
@@ -135,7 +135,7 @@ python vqc_circuit_visual.py
 - **Encoding:** Angle embedding (Y-rotation)
 - **Ansatz:** Strongly entangling layers
 
-## 📦 Dependencies
+## Dependencies
 
 ### Core Libraries
 - **qiskit** - Quantum computing framework by IBM
@@ -147,7 +147,7 @@ python vqc_circuit_visual.py
 - **scipy** - Scientific computing
 - **matplotlib** - Visualization
 
-## 🎯 Key Learning Outcomes
+## Key Learning Outcomes
 
 This portfolio demonstrates:
 - **Quantum Computing:** Understanding of quantum circuits, state preparation, and quantum simulators
@@ -155,22 +155,19 @@ This portfolio demonstrates:
 - **Hybrid Systems:** Combining classical and quantum computing for ML applications
 - **Software Engineering:** Clean code structure, documentation, and project organization
 
-## 📝 Notes
+## Notes
 
 - The DQN implementation includes gradient clipping for training stability
 - All quantum circuits use simulators (no quantum hardware required)
 - Circuit diagrams are generated in text format for easy viewing
 
-## 🤝 Contributing
 
-This is a portfolio project. Feel free to explore, learn, and build upon it!
-
-## 📄 License
+## License
 
 This project is open source and available for educational purposes.
 
 ---
 
-**Author:** Your Name  
+**Author:** Nico Mannarelli  
 **Date:** 2024
 
