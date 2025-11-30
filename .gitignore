@@ -1,1 +1,35 @@
+# Python
 venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Project specific
+circuit_diagram.txt
+*.pkl
+*.h5
+*.ckpt
+*.pt
+*.pth
